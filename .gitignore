@@ -11,9 +11,6 @@ env/
 # Model files
 *.pkl
 
-# Data files (optional - if large)
-data/
-
 # Logs
 *.log
 
