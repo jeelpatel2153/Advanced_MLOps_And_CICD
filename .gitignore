@@ -33,6 +33,3 @@ Thumbs.db
 
 # Jupyter
 .ipynb_checkpoints/
-
-#dataset
-data/
